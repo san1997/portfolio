@@ -19,49 +19,79 @@
     "skills": {
       "icons": [
         {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
+          "name": "React",
+          "class": "devicon-react-original colored",
           "level": "95"
         },
         {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
+          "name": "Node JS",
+          "class": "devicon-nodejs-plain colored",
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain colored",
+          "level": "60"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain colored",
+          "level": "60"
+        },
+        {
+          "name": "Digital  Ocean",
+          "class": "devicon-digitalocean-plain colored",
           "level": "80"
         },
         {
           "name": "TypeScript",
-          "class": "devicon-typescript-plain",
+          "class": "devicon-typescript-plain colored",
           "level": "90"
         },
         {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
-        },
-        {
-          "name": "Sass",
-          "class": "devicon-sass-original",
+          "name": "Nginx",
+          "class": "devicon-nginx-original colored",
           "level": "75"
         },
         {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
+          "name": "GraphQL",
+          "class": "devicon-graphql-plain colored",
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
+          "name": "XCode",
+          "class": "devicon-xcode-plain colored",
           "level": "65"
         },
         {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
+          "name": "Firebase",
+          "class": "devicon-firebase-plain colored",
+          "level": "65"
+        },
+        {
+          "name": "Meteor",
+          "class": "devicon-meteor-plain colored",
+          "level": "65"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain colored",
+          "level": "65"
+        },
+        {
+          "name": "Salesforce",
+          "class": "devicon-salesforce-plain colored",
+          "level": "65"
+        },
+        {
+          "name": "Webpack",
+          "class": "devicon-webpack-plain colored",
+          "level": "65"
+        },
+        {
+          "name": "Wordpress",
+          "class": "devicon-wordpress-plain",
+          "level": "65"
         }
       ]
     }
