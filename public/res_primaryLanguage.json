@@ -81,37 +81,56 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "ITap Group, London(Remote)",
+        "companyLogo": "https://media.licdn.com/dms/image/C4E0BAQEtMXj25zTspw/company-logo_100_100/0/1652200873421?e=1698278400&v=beta&t=DWnc1wJmpufygmHBmnux2s0M4OAMS8djD-JRSrA7jHA",
+        "title": "Lead Developer",
+        "years": "09.21 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "MERN Stack"
+        ],
+        "technologies": [
+          "MongoDB",
+          "RxJS",
+          "NodeJS",
+          "React Native",
+          "Meteor",
+          "GraphQL",
+          "DNS",
+          "Digital Ocean",
+          "DevOps",
+          "Team Lead"
+        ]
+      },
+      {
+        "company": "LG Ads, Bangalore",
+        "companyLogo": "https://media.licdn.com/dms/image/D4E0BAQE8DSWof-_krw/company-logo_200_200/0/1667838410585?e=1698278400&v=beta&t=4P1iT-PcG07o-bvQCdd7mxxUcr0jAsyyEd9Udng_44w",
+        "title": "Fullstack Developer",
+        "years": "06.2019 - 09.2021",
+        "mainTech": [
+          "React NodeJS MySQL"
         ],
         "technologies": [
           "REST API",
           "RxJS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "NodeJS",
+          "MySQL",
+          "Salesforce"
         ]
       },
       {
-        "company": "Serros Solutions",
+        "company": "Goldman Sachs, Bangalore",
+        "companyLogo": "data:image/png;base64,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",
         "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "years": "05.2018 - 07.2018",
         "mainTech": [
-          "Angular 7/8"
+          "Java, Python, NLP"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Java",
+          "Algorithms",
+          "NLP",
+          "Knowledge extraction"
         ]
       }
     ]
