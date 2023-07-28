@@ -11,42 +11,41 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Article Sharing Platform",
+        "startDate": "2021",
+        "description": "The most expanded application I had opportunity to work with. I worked on it from ground up and turned it from an idea into a revenue generating product. I have learnt vast technologies and management skills being part of the project. I have also gained the confidence of working with unknowns and meeting deadlines.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "https://lh3.googleusercontent.com/pw/AIL4fc8QVBxxWNbzWs5LhSHSHHY6se2KS3-67Uf9pq2BzelkRpZAQqlmRGjSCGpzNzBZcy60A9d5bhIRbWk8dXjYET-fgyLBIs_C8Wpi8_sDSgtUdqsvHyHOUAMXmJRQdTn5_sFG2hcp7baVYcWDNXZylFSJQpTkdMrev9gdzLoDjsf47tDn4wzb-_nMPvypQ9qYeml8S7Sud9UXc894bs8Q0swtvprI3X8Qz5LM3Szt_Su9a4IYGogh9yL8xcqzpNlrvMo1Y9Xs-SrAk3dxCeEaxgDpy59Bk-SC65h778MXVGEpi3IzEk2WNiwGXhcaobH1tnrE2IeUFxgl3iJR4D1fyenC3Kec6opycw9wiBMSTnDZKuFFcSTXrONGqr-DOktSVXIjSOWVnbi_MvLQk0bjZw6mnYuykth--oGGXUnigqRFpGFzpHlSml8HuoDuxhCH5sU_ls_O7bQ7qPVNHpkfMMGQVgwSydtq-9jzYQjTWASLufyqLGMmua-VIXFgOkvvpxb14OBXknAwG7JsY8Tdb4K8Ui9RiQJ4n55eZx8InBuypBeaABDJbrOagJFJqnzyysCWqFI_4mr74HElIcpwLyf4ueOfsIXSucFnWiDjvECvDIY4TCoo9wrH4z9JuQTAm8gnytupnjtCsCBufipSMFkvOT3hHaaRxQ2_g1fu8_LQawJFLucYEOHkecY8UUgbWHIEhl3qbw1uBT327LgDGmCzzqe91AO65JmbYfMBmZrYeSkWwxbQzdw8N03gwwIkQtQvAcXQFlmoXpbiD-l02-HtL4Of6vQFHFR2djBY_likZNkzy8xog6KUCT0nymoHgQrogYixxMdtcN7doqDgWphBB1bpPOxN3CCpE9FnUHhrIAAMnckmsA1_WGe32y_U1k5qffULooK0ssXTv1RNCQst5A=w2526-h1410-s-no?authuser=0",
+          "https://lh3.googleusercontent.com/pw/AIL4fc8V6yJMRqTCdBQO4tei1aCFONDGIQb8oU94aoyVGL0YD2yqYeLloKLm9vzev4-_j6l61X4wYgqrFOqkoyw8qOrYnWduxApvIRZYmOt3Z6Nwr6XYFW2QrIHByYsQkgo0uz7OmPbnwLHYZpb-9k6rq_LEbJK0ZjS1jOx3W_6AqwBglR68AAwrS1jLKIXG1CKbFGujM92PU7I6oTsLslBFiH0qv1Gg9q0wO7XP3hXhNkygRlVcdnMJlfWV7MrOMn4VwasBg4an4GM84QbJdH-i-cZMRTuyRB3RUeOC0jabFVfR62Ynm_zdBTly16cnXGgV8Shi4l6MmRlbwfaYtUh9iXluH5uvKvzpmMB9apKNv6Vdzhv6lwRlVeBJyZXtLTvfAZhdJC50hEIEtNSt3mtYBxpSAJoN62pnY9SXg_qBYVBkeF9ctwa1o1x7dSPfpUpOdh663_EFrym_GvqskS1O0j8RRPwP-vA7UwSNBDoz_pmWqewZ_rA4ynqXOslbp8unWRXYfBNAfzhuEDoN0cOsU0QEP0IB63KZLCsK5ZHqUc12DxFsWxP3qRT1x7_3lXuDkDjQIcUpS65-CzG4b0kl9E1HOrvtIbX4zYCh2Zy02GbYYJRhbtkAkSm6t1dlYxAx-wZHZv_tcIDSDJQ5UfFKTG3ZS6JKrWsA5uizDv0o_r57JBZKK6km7_tBAVA4F2KAVdrr7n3nNHRsUFyMNh2dvbkSmdgmqsGvtE94C4Bf4jd-_YdwBgBIo7df3p4-8g9tvH1f4S77c9Aysn7BtIkqJDCjV942N0RhenRJSBTmDcFdJVpDVgddY89aqJXseZbrVKJ1uVVauB3rYWmAmuTGkN8InZJcwu5aW0OPbA97l54X_oQo7utqOKrFNLsXapMIduqgNhdUOntOv9BgGVOl8iZKdw=w2526-h1462-s-no?authuser=0"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-plain",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-digitalocean-plain",
+            "name": "Digital ocean"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Fuldose",
+        "startDate": "2023",
+        "description": "Personal project with entrepreneurial intentions. A product platform built using shopify for taking customer orders.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "https://lh3.googleusercontent.com/pw/AIL4fc8xPd6pjJuHB_kOi14dOYLdygetyM_DzoaFVIzo0UZv8qPOK2voVnCp5OJR1kHjO-Ey0tYxWPlYIkIPotfCY4TUch0pjfeuHh8CU4QoWjtuahFupon2fFIaE_KoUcQ0GODYR6xmbCH1cotxKCUY-5BBnB9bWS7qjsETwOm00NvVqQdX8Z_IbGOSDhU_UGiqpkELsa4cRXReCLMGG2FKxohP-pJSYZka0sl3OzoBDL2ke3bqIGcMxzvjIObG6UT0L9VzsyUBVwxKjIfXLEffsFZw6eSoWbbMlqw6Nt4G18DnmSEDtWxKQvhAHfMrbJK12c5IHfFRKDwwsab_VpYcR2R5Eu1LzS9f8PEew7Ktuh3EQj3MftUGtdep_Gf6U_v8PfmBxDpV_Sn2cmNLJaypL0_lHEov74Z2T8AGSNI2m0GkQ0oG5YWwgg2ptFKup11Iqphc6jqCntWCoJOboJTe41o-n5SkpYle2nypOd2rcRmT4V860UvltKBBcq_DDHzcntEDsU4yagKR2aLBFfVrOjWB5nImLgHYcM7DWtoSQBqJ7cR846KQNG8qyq72J1gI11uNVYqCEVzzVr4PRMrICa2TYu7Yv7ZPUWxvdPSXyBgXxcoJHbUZIYj-YYD1Qp8FuczwRGo76FS8Hib4JDX8tohtGMh-5Xc07FvhRDwBTisEOzDlMkwix2JK0xoXzBeNOIdZz77DQxdTlDTO3H9OR4uKrj7lyoHwLCqxqAeu_x80n4HrjrKqN2_urWFH75DUMsfUDfQRzhZtZMOhmhbrnsAa_7zEGqG5_gSiE8v_xQqxU0St4ESz7T2_SPnzjrey9Z3PTvaNdsUs6iCMQY9LEKBpJ0fs6AOMe-WyR244jp9HzyF1-rHS27hjuG5RCBCejZzV2Nnd9DAoHRBFGr0Yt3kn_Q=w2526-h1402-s-no?authuser=0"
         ],
-        "url": "https://github.com",
+        "url": "https://fuldose.com",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-wordpress-plain",
+            "name": "Shopify"
           },
           {
             "class": "devicon-javascript-plain",
@@ -55,26 +54,26 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Publication",
+        "startDate": "2019",
+        "description": "Transport-Free Module Binding for Sample Preparation using Microfluidic Fully Programmable Valve Arrays. This paper was published in Design, Automation And Test in Europe (DATE 2020) Conference. Developed an algorithm and its simulation tool for biochips .",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "https://pbs.twimg.com/profile_images/474591466749034496/2-H1zqWf_400x400.jpeg"
         ],
-        "url": "https://github.com",
+        "video": "https://www.youtube.com/embed/jbQ5lhnvN9A" ,
+        "url": "https://dl.acm.org/doi/abs/10.5555/3408352.3408657",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-python-plain",
+            "name": "Python"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-jupyter-plain",
+            "name": "Jupiter"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-latex-plain",
+            "name": "Research"
           }
         ]
       }

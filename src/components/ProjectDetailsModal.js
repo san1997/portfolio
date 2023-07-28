@@ -6,9 +6,11 @@ import AwesomeSliderStyles2 from "../scss/dark-slider.scss";
 import "react-awesome-slider/dist/custom-animations/scale-out-animation.css";
 class ProjectDetailsModal extends Component {
   render() {
+    let video;
     if (this.props.data) {
       const technologies = this.props.data.technologies;
       const images = this.props.data.images;
+      video = this.props.data.video;
       var title = this.props.data.title;
       var description = this.props.data.description;
       var url = this.props.data.url;
@@ -68,13 +70,16 @@ class ProjectDetailsModal extends Component {
                 data-inline="false"
               ></span>
             </div>
-            <AwesomeSlider
+            {video
+            ? <iframe width="100%" height="315" aspectRatio={2}  src={video} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            : <AwesomeSlider
               cssModule={[AwesomeSliderStyles, AwesomeSliderStyles2]}
               animation="scaleOutAnimation"
               className="slider-image"
             >
               {img}
             </AwesomeSlider>
+            }
           </div>
           <div className="col-md-10 mx-auto">
             <h3 style={{ padding: "5px 5px 0 5px" }}>
