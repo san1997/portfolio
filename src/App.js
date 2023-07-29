@@ -7,6 +7,10 @@ import About from "./components/About";
 import Experience from "./components/Experience";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
+import ReactGA from "react-ga4";
+
+const GA4ID = "G-DR4CZP8K6Q";
+ReactGA.initialize(GA4ID);
 
 class App extends Component {
 
