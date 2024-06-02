@@ -1,0 +1,137 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Sandeep, a distinguished software engineer and an alumnus of the prestigious Indian Institute of Technology (IIT) Roorkee, where I graduated with a B.Tech in Computer Science and Engineering in 2019. I like solving problems through technology. My other interest include old music, playing snooker and delving into philosophy.",
+      "description_extn": "I like to work with dynamic and small teams, where I can see impact of my work.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Article Sharing Platform",
+        "startDate": "2021",
+        "description": "The most expanded application I had opportunity to work with. I worked on it from ground up and turned it from an idea into a revenue generating product. I have learnt vast technologies and management skills being part of the project. I have also gained the confidence of working with unknowns and meeting deadlines.",
+        "images": [
+          "https://firebasestorage.googleapis.com/v0/b/portfolio-9b65a.appspot.com/o/Screenshot%202023-07-28%20at%201.12.36%20PM.png?alt=media&token=b11824e1-eed1-4477-b3a8-4ab9724d0389",
+          "https://firebasestorage.googleapis.com/v0/b/portfolio-9b65a.appspot.com/o/Screenshot%202023-07-28%20at%201.21.10%20PM.png?alt=media&token=b526e744-a2f0-4358-b7ee-2a1cd2495111"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          },
+          {
+            "class": "devicon-digitalocean-plain",
+            "name": "Digital ocean"
+          }
+        ]
+      },
+      {
+        "title": "Fuldose",
+        "startDate": "2023",
+        "description": "Personal project with entrepreneurial intentions. A product platform built using shopify for taking customer orders.",
+        "images": [
+          "https://firebasestorage.googleapis.com/v0/b/portfolio-9b65a.appspot.com/o/Screenshot%202023-07-28%20at%201.02.51%20PM.png?alt=media&token=b59d657f-1507-49b1-b6cb-78b44b379fd6"
+        ],
+        "url": "https://fuldose.com",
+        "technologies": [
+          {
+            "class": "devicon-wordpress-plain",
+            "name": "Shopify"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Publication",
+        "startDate": "2019",
+        "description": "Transport-Free Module Binding for Sample Preparation using Microfluidic Fully Programmable Valve Arrays. This paper was published in Design, Automation And Test in Europe (DATE 2020) Conference. Developed an algorithm and its simulation tool for biochips .",
+        "images": [
+          "https://pbs.twimg.com/profile_images/474591466749034496/2-H1zqWf_400x400.jpeg"
+        ],
+        "video": "https://www.youtube.com/embed/jbQ5lhnvN9A" ,
+        "url": "https://dl.acm.org/doi/abs/10.5555/3408352.3408657",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-jupyter-plain",
+            "name": "Jupiter"
+          },
+          {
+            "class": "devicon-latex-plain",
+            "name": "Research"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "ITap Group, London(Remote)",
+        "companyLogo": "https://media.licdn.com/dms/image/C4E0BAQEtMXj25zTspw/company-logo_100_100/0/1652200873421?e=1698278400&v=beta&t=DWnc1wJmpufygmHBmnux2s0M4OAMS8djD-JRSrA7jHA",
+        "title": "Lead Developer",
+        "years": "09.21 - present",
+        "mainTech": [
+          "MERN Stack"
+        ],
+        "technologies": [
+          "MongoDB",
+          "RxJS",
+          "NodeJS",
+          "React Native",
+          "Meteor",
+          "GraphQL",
+          "DNS",
+          "Digital Ocean",
+          "DevOps",
+          "Team Lead"
+        ]
+      },
+      {
+        "company": "LG Ads, Bangalore",
+        "companyLogo": "https://media.licdn.com/dms/image/D4E0BAQE8DSWof-_krw/company-logo_200_200/0/1667838410585?e=1698278400&v=beta&t=4P1iT-PcG07o-bvQCdd7mxxUcr0jAsyyEd9Udng_44w",
+        "title": "Fullstack Developer",
+        "years": "06.2019 - 09.2021",
+        "mainTech": [
+          "React NodeJS MySQL"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "NodeJS",
+          "MySQL",
+          "Salesforce"
+        ]
+      },
+      {
+        "company": "Goldman Sachs, Bangalore",
+        "companyLogo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAY1BMVEVzmcb///9qk8NtlcRnkcJwl8XS3eu6y+F2m8eet9alu9irwNuZs9RlkMLm7PTM2en2+fuFpc3w9PmSrtF9oMqzxt7b5O/B0OSMqs/s8ffG1ObP2+rf5/GBo8uovtqvw9xbir+dGZH/AAAL3ElEQVR4nO2ca5eyvA6GoQdBBURA8Ti+//9XbtomaYvojONhz3pW7m8Mh/Zq2qRN6yQJi8VisVgsFovFYr1XOtFe/+/KvFxaCpWvW6/1D16SoOkP3rn5eWmhL9s6DbX6vmr6uLI65hP3Ori5+hO9QeRHA7XfFPOsAcLDDwixNbprCr3Dm3/BiOpiq7Iphz4lysuPCROEyP82oVZbB6jctWj/NUJV2YpsS/yD+JokHDzt+NVfE+ok/NjtkTpR5vWXvlPpLJieR3+KCaWQXZcrEX9wklAIoYS8JiTXqoVI1udEuBuDE8/PnRRXDTo4d92du+HpuCZOpo2U7M5XdbqSyFw99mXwx25EKOXFGrqeteobQtH1VZ3uM7keEe56q2yoW2+9WZMJ8+n8YH14dYm+rFW+Obn369lc+brk7jN9q1VxcrfX4i7hGerRh4+pY0iolem2dbY8mJp0Afk1oVjZPzRpPbKh/oLL/wq8kdZ5IuZ01QQeWeYz0+rZxX2uniO+zuHpJfa9QVnUOCOVFTxVhF3BdDFPKE7WxkIKW+uFb4srwtxaZ1aW5xqjDhIugGrwY/1lD1DlYmg5vKppIiVtK/SDbxfQFQ4AobHMRZWuLgdEvG1F3WI94pBWNkSopa1AYe4L+8kNNdmYUDisYWRIMuGYsN4LKRXMLrJ0r6QsoTVmUFHpatXqwARLHRPu07OQEOYiJzKSIFPHrSB6IizdcFBBg8zRvCNCCDsr8y21nyZMU+P+JLZ+ejZXWfwd6fgbY1OsYS1iwnQjgqvjrZBEvXpoyrFt4SXpmqmyBWgd2ywm1DDCbAMMbTRNWJmS5Ca8whfTi31W4qPGpmSDnY4JbZkKr26NRIlWTk/jnrx23RaZYJZaQtFqihDNZq+8zUaEtivqZdj4FFlcq0psnFoFhMuYsLZVwN6edjcIfSedXY1VZyY0Re/qqZrogxEh1dOZe+xLkdC2FRG6sYCRxbUzGbgJCTMZETYxYXsjKNIDN+do+MTG3RdgJogtEaFchWX7AfAAYRW/aqB+SFhME/paxOEweAJHCLgyUYXfjwnLOqxmIn9NiKUeTJ3A0f2WkGIFvH8lgT5vERPCyAsJqblgSJMTeJxwmCO28yIx3xE0NfoVITkt7IUyVES0kDGhCxgRIZp76wjLJwhNFB5ChVbn48gGj9rwi963fppWtFbRF+YjwuyKkPzy7BWE1pBfQ2nbuMRHCbEcJNxSmB6kQ+YxoR0jMSGG7ZcQatWZAVLP/3vO03hC10uHZc8qJPSuaEy4urIhDdnjCwjFzjqYrdBP+lLfSzfoaWgqbgmJAQnRyMfrXvo6Qq1WcKmfjBbSL12I0M9FJnspEh6ubYgzkecJsaes9dPxcCJaaHLPdjFxi3DC07xsHIoZQJhF+csivo+HXUSIRGPCxXW0iCaeTxBSG9vO8ByhN1Ewp4kIcSZGER8J3YIsIsSJ6OzJiE8uy86FnyUkt3KYtiGNVJi14cy7npi1IdL2SUKFlbJlPktIi7jjtA3J1VxgbVEH1RwRYnOdVFSVxwmx1osXEHpXs71BiPExi9aHsBwdrS1g0QOL5VGu7deET81pgieqG4R4CUaDBcNpagWMfsuVLW+tgL8nxBzWMlyx/JaQFpv1LULoyMAEN9eTWQwFXt6mzHwm5mFPg/3Sxmiqzi8JvTfFJ+J4SE3qXAusHzbYHDEh1sZGFr+4fpSQWt34UoEXvybU6CxhZPlFEDHn9is2TeAMeqD0+IgQ6lYN95Wf8j4cD9G77UutZfpkL3XpbWsXCBc0NfFWtWneyhRnjZT5/P+IMCndx7JSfaUNdraH5zQSp8uzXbFP8b1fE2KSs4F6RzNvkDVdNS+MierW5zuud0gVtU+dYPphRHiMCFeT81LqmkPVcSIBhDgNe4AwKZ1P6C2i8LsKwTu4fZJWyzLcFdvOrLZ+30J2B2PxJhMyczdnkKxu4fJi/W4BV9Zf6g4+1GNHWkMHWOViDfcgy5DApVugyhXUYHcH0GyJ7t3XVBmsGEPCRAvVtcVOj3ayBCj8q1Q6l2azSLp7NKWPnp2+oonV8IddUZyV2UQb3cMyobTo6qa0ao/GRnV0VmFs95+fQPnpc/c/8toDL7pUlzHjSwv4f0vasxjbVigldqt/kFBZ37VQbq4tds8SytLpRh7983LTpN7nufLnCGnJNfsjiLBdLIM95uJFhN+5uM8IMrlNmIy1s4B/hRBngdEWqT7/Q4SUjA9Pm9hMwohwiE/ydogKo9eIUE6/pj91eJFWY+toYnK5mtPkbTEfZjXq2i7DzXMxbzv0nSGhLNfzRZGrGEMPk55dMQfdn3E9LVpRn0Ijmil8YBSxoM3i5tCNGl3tcIPo6G55wrKD4LovwoaReU9nUVLcA3mbgm3gEFHtPaE9rdgs293SPbsJh6zozBpiW7R2/j4XIeFqEWD4l9wC5FDs5jDnfy+h8NtNVe6n0DqhFZHrx2YQwqnFsErCQqxKKV2SyiykibBJm68W03mUGHDLtU4MA1Ho/QcIZ0F/6TVFRfIOsH60x4Ax50FjFlZyg31wM0WE2yFVKXWJCRuYkLuTFkugEvXbCcP10qBMj4rD6u5FQIgnpCGhNizUKbkymN4Tmn5AGctoCYuHmEzS5M2Eo41fc0Ys8iRRRhZPH+yhTpR6otyKWWz7XqqChyBhCVkS6gVl83ZC6TcRQZtwRUs5dpMzpvMVKqLPNSW0TMaKCG2a2W//iOB7RDUY/92EiaLMJqpeeLdKezN9SGjvU+JRBOeDtB5FfE/okqoQJ9bQU3S3mr99naaCxA/2KJ95wU5md0EjGyK8yaVi0DG5s5uEdv+GckcKMxgfWIiKdRiAnSilJs+mX82s04gJcXfJjsrO9j67BLtPSLm8Wf4JNpCeMGPrU0hJJ60nzTFBmEY7mS7jr7piJ50zuUcog5L65IMLSKmvRqM/7meqJtXZH9NwhBhncN8KQ+hdQhsBPeMHfzSkRR4QeNO4m1LMB/vtz1i7aK92vEi6T6jPUSkb9fauKn1v7I5R4RSzpM4M2rKMxiHNhh4jTGQXjfpm4idFrwXsg0N7qjsFZUOc0rBRNiwconhIc4EHCYemjEfE7r2IKj5BXAbx33VTPJPeyuSHhDRAbxAOr57JoxpN/OTmlYT1aO3rD9nbSRecm7dbZiPCW72UTgfcJByc9yJwOO/NdgyE8dlS/xsPE8lpwmkfighptrMdVVCdwppfeRoM9LRN9ebk80B4UvFfsIL2mDXaY35NiFWs4vf9zGeKUM8vwCM6WpreOqX9KsLROKCdPkNOSQ7rDiJC2i1uYkK/eJoiHEYvjgqNG//p17sJR0egcSbaS99J3SZovLagq7iX0snsacKZPyVI27FvJ6zjn40h1TmghSMzESEddYm20/wy4xZh8NsO+PzdHdxXEPociq1i5zsp/bTNHV0ji7qTGRhZooBW7tNosnNNGLQI/AjlreHCrWbCv8jCm9BXz8xSvXlU8C4dCXN/y9IK8xa3CP1PzVxMrd4dLVKzAPKtCKmnLxlCuCQaOXgVtcXW93Lzp+TenMZGUSrNraXe6koRoaLpKYR46LgU1s1QoRNYOA3C9ADFcnPQYSe+JZxhDsHe+1BGuG5LobUWpase/miTFoGHUpSrFCMYGg1O42ztCQ0ty8HIO3l3XuqabFUOfjqR1pce7/0C9IWEQ0/tF8Wid8cyvC+gkH/ImnSLy1eqVOn+cjorpZJlnVa5vD/zhk5RX9ZJt3QrlvcC+oOupCqL0gv+ENBgR8QNBh4uKxsTdhb3shgJRPxATabfvgSWWajNV6uFjAe+zLNTU9enrBO6gOfCagk9X1XDA9WhhdXsundPwSEfuOrd1xY9FbboxmW9BzHS1Faf+WX8IHtaa3LLT0pzP6htvDM4ffV3/u0Ji8VisVgsFovFYrFYLBaLxWKxWCwWi8VisVgsFovFYrFYLBaLxWKxWCwWi8VisVgsFovFYrFYLBaLxWKxWCwWi8VisVgsFovFYrFYLBaLxWKxWCwWi8VisVgsFovFYrFYLBaL9ef0P0eajxpZ7faiAAAAAElFTkSuQmCC",
+        "title": "Intern",
+        "years": "05.2018 - 07.2018",
+        "mainTech": [
+          "Java, Python, NLP"
+        ],
+        "technologies": [
+          "Java",
+          "Algorithms",
+          "NLP",
+          "Knowledge extraction"
+        ]
+      }
+    ]
+  }
