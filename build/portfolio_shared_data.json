@@ -1,0 +1,98 @@
+{
+    "basic_info": {
+      "name": "Sandeep Pal",
+      "titles": [ "Fullstack Developer", "Dev Team lead", "Mobile App Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/san1997/",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/sandeep._.pal/",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "https://lh3.googleusercontent.com/pw/AIL4fc-l3lf7J15OM1k2fGFcL5CTXAUajiJMPxnUQ6LunlcaPWKYk4ggb3cC-fWXDxBzUg7ow3pFZrebLo-oFboO9JSKerlL2voWmDpxJjlIErKOOXoAGQgToZIe-Havn1iftmBD0ashBbT8_ZYkm8kqd7hDChpU_rhjJbsFo70WyYUbk-HWiLJaDBDIjYnIRPQStYzf1vD8-sppXHDMq3ODI5Ov0zgQmPGlg11AiYdlMxeaBdcmjydQUWPocvCg4C0396cgO7o1kw9VRRfAWtUsJq_l1Fd_n4FkU_Axj5JAoL4SuOrTGu1RPQbwlK1mY2wuRvwZyCNBdTsun-w7swYf-eQRSukkje6oZyqZWV6shH0Q0jaqTLhpv01arsj79pRLa-xBbhi15HNbsKk6kBlzWo8-Lqx6KEtfQJwCbzV31NxqdVC1avUNyuTwx5vKoNMN7ljqktyDjUXZq9LctwAuFgsEmh1VYFOvbLvLPK7zPQL3yJ_6dnAXM3Z1cDlCXNP2sk0TE3ZiqlJ4aK-V87TDrIrmGXTnZrxmE8cPPmqQSy84kcY0pJ4j5wR_b3wdMQewjvZ0QMDctdyLewA4PKO3EI5AD8h8tm4kEONB3T2uohHNxpjgE1RkbJ0kM972FZudlw9CMu51qWLGZWrUmr1GRP3pruBIWb1NGpWLcBZoNuBW90r0DvyNXGXPEQOZQAC2Muko5Ie4kf44m9ZrwSHD8NVJyRsER08O_Ydq6CbE8U1pS5cfq8jpbFj_K8kZagXQLpG1X5er7YgCclTuVkjNtu2e_hLz-poT9k0Wfbv5v0QhDSMBZ0WkTty5du8E37MRV9mT-Heny4RfT8yeykF4AnY9a8A4-ysFwXpIU9iKMSDT9QIZ5X4qbFp0bFvOXOPe5xI413UZgMTFwxyBy9zBN4sUYQm46H6gy8eQ3quL3u6yta9Nq_Su6FHBDG5rWxF8_KgO2Vh0L-qxCotg5w=w530-h706-no?authuser=0"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "React",
+          "class": "devicon-react-original colored",
+          "level": "95"
+        },
+        {
+          "name": "Node JS",
+          "class": "devicon-nodejs-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain colored",
+          "level": "60"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain colored",
+          "level": "60"
+        },
+        {
+          "name": "Digital  Ocean",
+          "class": "devicon-digitalocean-plain colored",
+          "level": "80"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain colored",
+          "level": "90"
+        },
+        {
+          "name": "Nginx",
+          "class": "devicon-nginx-original colored",
+          "level": "75"
+        },
+        {
+          "name": "GraphQL",
+          "class": "devicon-graphql-plain colored",
+          "level": "85"
+        },
+        {
+          "name": "XCode",
+          "class": "devicon-xcode-plain colored",
+          "level": "65"
+        },
+        {
+          "name": "Firebase",
+          "class": "devicon-firebase-plain colored",
+          "level": "65"
+        },
+        {
+          "name": "Meteor",
+          "class": "devicon-meteor-plain colored",
+          "level": "65"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain colored",
+          "level": "65"
+        },
+        {
+          "name": "Salesforce",
+          "class": "devicon-salesforce-plain colored",
+          "level": "65"
+        },
+        {
+          "name": "Webpack",
+          "class": "devicon-webpack-plain colored",
+          "level": "65"
+        },
+        {
+          "name": "Wordpress",
+          "class": "devicon-wordpress-plain",
+          "level": "65"
+        }
+      ]
+    }
+  }
