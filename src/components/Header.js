@@ -34,8 +34,21 @@ class Header extends Component {
       return <Typical className="title-styles" steps={this.titles} loop={50} />
     }, (props, prevProp) => true);
 
+    let networks = [];
+    if (this.props.sharedData) {
+      networks = this.props.sharedData.social.map(function (network) {
+        return (
+          <span key={network.name} className="m-4">
+            <a href={network.url} target="_blank" rel="noopener noreferrer" style={{color: 'black'}}>
+              <i className={network.class}></i>
+            </a>
+          </span>
+        );
+      });
+    }
+
     return (
-      <header id="home" style={{ height: window.innerHeight - 140, display: 'block' }}>
+      <header id="home" style={{ height: '10vh', display: 'block' }}>
         <iframe src="https://coral-xyz.github.io/lava/" className="title-background"/>
         <div className="row aligner" style={{height: '100%'}}>
           <div className="col-md-12">
@@ -44,7 +57,11 @@ class Header extends Component {
               <br/>
               <h1 className="mb-0">
                 <Typical steps={[name]} wrapper="p" />
+                <></>
               </h1>
+
+              <div className="social-links">{networks}</div>
+
               <div className="title-container">
                 <HeaderTitleTypeAnimation />
               </div>
